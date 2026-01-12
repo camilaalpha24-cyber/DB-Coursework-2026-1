@@ -109,8 +109,8 @@ Sistema de administración web para gestionar operaciones básicas de una tienda
 
 ### 🔗 Enlaces
 * **Código Fuente:** [Repositorio en GitHub](https://github.com/jimenezserranoangel9-star/Tienda-de-videojuegos)
-* **Demo en Vivo (Github Pages):** [Tienda de video juegos Web]( https://jimenezserranoangel9-star.github.io/Tienda-de-videojuegos/)
-*  **Demo en Vivo:** [Tienda de video juegos Web](https://6shk.gt.tc/index.php)
+* **Demo en Vivo (Github Pages):** [Bazar Ropa Web]( https://jimenezserranoangel9-star.github.io/Tienda-de-videojuegos/)
+*  **Demo en Vivo:** [Bazar Ropa Web](https://6shk.gt.tc/index.php)
 
 ---
 
@@ -238,7 +238,6 @@ Sistema web para gestionar las operaciones de un Taller Automotriz
 * **Código Fuente:** [Repositorio en GitHub](https://github.com/GabrielEC9/proyecto_BD_practica31)
 * **Demo en Vivo:** [Taller Automotrizl](https://proyecto-bd-practica31.onrender.com/login.html)
 * **Demo en Vivo GitHub Pages:** ([https://jr-devel.github.io/doly_front_escom/](https://gabrielec9.github.io/pagina-estatica-BD3CV2/)
-* * **(Usuario: gabriel@gmail.com   Contraseña: admin)** 
 ---
 ## Proyecto 6: Gimnasio
 Es un sistemma de gestión de deatos de los miembros, clases, tutores, pagos, instructores mediante el uso de diferentes roles. En este caso, sería el jefe, recepcionista y a los clientes que deseen ver sus datos.
@@ -270,6 +269,7 @@ Es un sistemma de gestión de deatos de los miembros, clases, tutores, pagos, in
 	
 ## Proyecto 6: Sistema Gestion de Gimnasio
 
+
 ### Tecnologías
 * **Backend:** Python / Flask / ORM
 * **Base de Datos:** NeonTech / Postgres
@@ -286,37 +286,37 @@ Base de datos funcional y una página web que permitan:
 
 
 ### Visualizacion
-<div align="center">
+<img width="1800" height="1044" alt="inicio" src="https://github.com/user-attachments/assets/4007f341-47d5-41fb-a663-bee7fef14cfc" />
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/4007f341-47d5-41fb-a663-bee7fef14cfc" alt="inicio" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d1923dd9-f1e4-4561-b20e-cd4a0e3c9097" alt="principal" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/f92f01ef-ea0b-464f-8ed4-daa02450d47f" alt="socios" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/7d37ebfd-d05e-4093-957b-332f4714a0b9" alt="clases" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/a4057b4f-cbb1-4d38-9a42-f0c81346c7ee" alt="instructores" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/90cde8a8-d34c-4bcd-8f0c-4221f44a7371" alt="pagos" width="400"/></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/94017569-1035-4a92-98d6-80d8ac594d75" alt="asistencia" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/1ebef152-3148-4ca2-83eb-d6f9b8101f12" alt="nuevo socio" width="400"/></td>
-    <td><img src="https://github.com/user-attachments/assets/e18dc774-0f99-43f4-86d1-d967725a23bf" alt="nueva clase" width="400"/></td>
-  </tr>
-</table>
 
-</div>
+<img width="1800" height="1049" alt="princip" src="https://github.com/user-attachments/assets/d1923dd9-f1e4-4561-b20e-cd4a0e3c9097" />
+
+
+<img width="1800" height="1047" alt="socios" src="https://github.com/user-attachments/assets/f92f01ef-ea0b-464f-8ed4-daa02450d47f" />
+
+
+<img width="1800" height="1045" alt="clases" src="https://github.com/user-attachments/assets/7d37ebfd-d05e-4093-957b-332f4714a0b9" />
+
+
+<img width="1800" height="1044" alt="instructores" src="https://github.com/user-attachments/assets/a4057b4f-cbb1-4d38-9a42-f0c81346c7ee" />
+
+
+<img width="1800" height="1046" alt="pagos" src="https://github.com/user-attachments/assets/90cde8a8-d34c-4bcd-8f0c-4221f44a7371" />
+
+
+<img width="1800" height="1045" alt="asistencia" src="https://github.com/user-attachments/assets/94017569-1035-4a92-98d6-80d8ac594d75" />
+
+
+<img width="1800" height="1046" alt="nuevo socio" src="https://github.com/user-attachments/assets/1ebef152-3148-4ca2-83eb-d6f9b8101f12" />
+
+
+<img width="1800" height="1048" alt="nueva clase" src="https://github.com/user-attachments/assets/e18dc774-0f99-43f4-86d1-d967725a23bf" />
 
 
 ### 🔗 Enlaces
-* **Repositorio Github: https://github.com/AlondraOO/ProyectoBases**
+* **Repositorio Github:**
 * **Link de Acceso: https://proyectobases-r4a6.onrender.com/**
-* **GITHUB PAGES: https://alondraoo.github.io/ProyectoBases/index.html**
-
-
-
-
+NOTA: El servicio de hosting render permite el despliegue durante un numero limitado de minutos, por lo que para su revision, requiere reinicar el deployment
 # Proyecto 7 : Sistema de Gestión – Tienda de Abarrotes
 
 Sistema integral para la gestión de inventario, ventas y pagos a crédito de una tienda de abarrotes.
@@ -705,547 +705,90 @@ https://github.com/ErickEvil16/PaginaBD3CV5/tree/main
 ### Demo en vivo
 https://rebrota.alwaysdata.net/
 
-## Proyecto 14: Sistema de Gestión de Ventas e Inventario (Refactorizado)
-
-Este proyecto es una aplicación web completa para la administración de un comercio, que incluye gestión de inventario, registro de ventas, cálculo de comisiones y nómina de empleados.
-
-El sistema ha pasado por un proceso de **modernización total**, migrando de PHP nativo estructurado a una **Arquitectura MVC** utilizando **Eloquent ORM**.
-
-## 🔗 Demo en Vivo
-
-Puedes acceder al proyecto funcional aquí:
-👉 **[http://www.proyectobdluis.rf.gd/](http://www.proyectobdluis.rf.gd/)**
-
-> **Credenciales de prueba:**
-> * **Usuario: admin o vendedor1
-> * **Contraseña: temp
-
 ---
-
-## 🛠️ Tecnologías y Técnicas Implementadas
-
-Este proyecto destaca por la transición de código heredado a estándares modernos de desarrollo PHP:
-
-### 1. Arquitectura MVC (Modelo-Vista-Controlador)
-Se separó la lógica de negocio de la interfaz de usuario para mejorar la mantenibilidad y escalabilidad.
-- **Modelos (`/models`):** Representación de datos usando Eloquent.
-- **Controladores (`/controllers`):** Lógica de negocio (Ventas, Productos) centralizada.
-- **Vistas (`/admin`, `/vendedor`):** Interfaz limpia separada de las consultas SQL.
-
-### 2. Implementación de Eloquent ORM
-Se eliminaron las consultas SQL manuales (`SELECT`, `INSERT`, `JOIN`) y se reemplazaron por objetos PHP, permitiendo:
-- **Relaciones limpias:** Uso de `hasMany` y `belongsTo` para conectar Productos, Proveedores y Ventas sin escribir `JOINs` complejos.
-- **Seguridad:** Protección automática contra Inyección SQL.
-- **Transacciones de Base de Datos:** Uso de `DB::beginTransaction()` para asegurar la integridad de datos críticos (Stock + Venta + Salario + Caja) en una sola operación atómica.
-
-### 3. Gestión de Dependencias
-- Uso de **Composer** para la gestión de librerías.
-- Carga automática de clases (Autoloading PSR-4), eliminando los `include` manuales repetitivos.
-
-### 4. Seguridad
-- Encriptación de contraseñas utilizando `password_hash` y verificación con `password_verify`.
-- Validación de sesiones y roles (Admin vs. Vendedor).
-
----
-
-## 📊 Diagrama Entidad-Relación (ER)
-
-La base de datos relacional está diseñada para mantener la integridad referencial entre las operaciones comerciales.
-
-![Diagrama ER del Proyecto](imagen_diagrama.jpeg)
-![Diagrama ER del Proyecto](imagen_diagrama1.jpeg)
-![Diagrama Crow´s Foot del Proyecto](imagen_EER.jpeg)
-![](tienda.png)
-![](tienda2.png)
-![](tienda3.png)
-![](tienda4.png)
-*(Nota: Debes subir una imagen llamada `imagen_diagrama.png` o similar a tu repo y cambiar esta ruta)*
-
-**Entidades Principales:**
-* **Venta & DetalleVenta:** Cabecera y renglones de cada transacción.
-* **Producto:** Inventario, costos y precios.
-* **Persona/Usuario:** Gestión de identidad y roles.
-* **RegistroSalario:** Cálculo automático de comisiones basado en ventas diarias.
-* **Proveedor & Cliente:** Entidades externas relacionadas.
-
----
-
-## 📂 Estructura del Proyecto
-
-```text
-/
-├── admin/          # Panel de Control (Vistas del Administrador)
-├── vendedor/       # Panel de Ventas (Vistas del Vendedor)
-├── config/         # Configuración de base de datos (Eloquent)
-├── controllers/    # Lógica de Negocio (ProductoController, VentaController)
-├── models/         # Modelos de Datos (Producto, Venta, User...)
-├── vendor/         # Dependencias de Composer
-├── index.php       # Login y Punto de Entrada
-└── style.css       # Estilos Globales
-```
-## Proyecto 15: Sistema de Gestión de la Liga de Fútbol 
-Sistema robusto para la administración de una Liga de Fútbol Profesional, diseñado para soportar operaciones transaccionales complejas y simulación de grandes volúmenes de datos.
-
-###    Tecnologías
-El núcleo del sistema está construido sobre **PostgreSQL 17** como motor de base de datos, orquestado mediante **Docker y Docker Compose** para garantizar la portabilidad. La lógica de automatización y poblado masivo se desarrolló en **Python** , integrando librerías clave como **Faker** y **Psycopg2** para la generación de datos sintéticos y manipulación eficiente de registros.
-
-###    Características principales
--   **Poblado Masivo de Datos** : Generación automatizada de millones de registros (Jugadores, Partidos, Estadísticas) para pruebas de estrés.
--   **Análisis de Rendimiento:** Comparativa de tiempos de respuesta e inserción entre cargas leves y masivas.
--   **Transacciones ACID:** Manejo seguro de fichajes y reprogramación de partidos.
--   **Dockerizado:** Entorno completamente portátil y aislado.
-
-###    Vistas previas
-
-<table width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/a075a538-4e33-4dc8-9226-384b3e245d85" alt="Captura de pantalla 1" width="100%" style="border-radius: 8px;"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github.com/user-attachments/assets/90ce794d-3ef9-4890-877a-eecdbfb2cfeb" alt="Captura de pantalla 2" width="100%" style="border-radius: 8px;"/>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github.com/user-attachments/assets/59b146c8-2797-4b5e-bb20-574eaacff1ba" alt="Captura de pantalla 3" width="800" style="border-radius: 8px;"/>
-    </td>
-  </tr>
-</table>
-
-###    Enlaces
-*   **Código fuente:**   [ Repositorio en GitHub ] ( (https://github.com/piriart5/documentacion_liga_futbol_basesdedatos.git))
-*   **Demo en vivo:**   [ Demo en vivo ] ( ( https://ligafutrapido.kesug.com/ ) )
----
-
-Protyecto 16 
-
-# Lavanderiaproyecto
-Proyecto final 
-PROYECTO (LAVANDERIA AA)
-
-Integrantes: 
--Perez Flores Arale
--Juarez Hipolito Marco Antonio 
-
-# Sistema de Gestión de Lavandería
-
-Este proyecto es un sistema web para la gestión de clientes y pedidos de una lavandería.  
-Permite el registro e inicio de sesión de clientes, así como la creación y consulta de pedidos.  
-Fue desarrollado utilizando PHP, MySQL y RedBeanPHP, con una interfaz web sencilla y funcional.
-
-# Tecnologías utilizadas
-- PHP
-- MySQL
-- RedBeanPHP
-- HTML5
-- CSS3
-- Git y GitHub
-
-  #Capturas de pantalla
-<img width="1600" height="761" alt="image" src="https://github.com/user-attachments/assets/93d9583d-7a30-4576-81d8-9734145381f0" />
-
-
-
-
-# Repositorio del proyecto
-https://github.com/AralePerez/Lavanderiaproyecto
-
-# Página web oficial del proyecto
-https://www.basedatos.kesug.com/index.php?
-
-## Versión estática del proyecto
-
-Se desarrolló una versión alternativa estática del sistema para demostrar la interfaz y el flujo básico del proyecto sin backend.  
-Esta versión fue montada en GitHub Pages y permite visualizar las pantallas principales del sistema.
-
-🔗 GitHub Pages: https://araleperez.github.io/Lavanderiaproyecto/
-
-
-
-
-
-## Proyecto 17: Tienda de abarrotes
-Sistema de gestión para una tienda de abarrotes
-
-### 🛠️ Tecnologías
-* **Backend:** PHP con Eloquent (ORM).
-* **Base de Datos:** MySQL/MariaDB.
-* **Frontend:** HTML con PHP, CSS y JavaScript.
-
-### 🖼️ Capturas
-
-<img width="2794" height="1446" alt="image" src="https://github.com/user-attachments/assets/48032300-7004-4870-bf73-f2ca7ceed3b0" />
-<img width="2798" height="1452" alt="image" src="https://github.com/user-attachments/assets/55008e5f-bebf-4af3-80ff-68a367fd4d42" />
-<img width="2796" height="1446" alt="image" src="https://github.com/user-attachments/assets/e1fab5df-b6a3-487a-b399-f582787cde35" />
-<img width="2796" height="1442" alt="image" src="https://github.com/user-attachments/assets/e3997bb7-0e4b-4b4b-8ffa-09a723d7a67b" />
-<img width="2790" height="1446" alt="image" src="https://github.com/user-attachments/assets/9f05ede0-ecb6-4242-a2c5-406584affeef" />
-<img width="2796" height="1456" alt="image" src="https://github.com/user-attachments/assets/ceba32c4-d838-433b-b820-9022e64d02d3" />
-
-### 🔗 Enlaces
-* **Código Fuente:** [Repositorio en GitHub](https://github.com/sebasschavez/ProyectoBD)
-*  **Demo en Vivo (Render):** [Abarrotes Don Manolo](https://bdproyecto.gt.tc/login.php)
-
-
-# Proyecto 18
-
-Sistema Web de Gestión de Zoológico
-
-📘 Descripción del proyecto
-
-Este proyecto consiste en el desarrollo de un sistema web para la gestión de un zoológico, el cual permite administrar información relacionada con animales, habitats, cuidadores y alimentación mediante una base de datos relacional en MySQL y una interfaz web en PHP.
-
-El sistema fue diseñado como un caso de estudio académico, aplicando conceptos de:
-
-Modelado de bases de datos
-
-Modelo Entidad-Relación
-
-Modelo Entidad-Relación Extendido
-
-Modelo Relacional
-
-Seguridad básica en aplicaciones web
-
-
-
----
-
-🎯 Problema a solucionar
-
-La administración de un zoológico requiere manejar una gran cantidad de información sensible y relacionada entre sí, como:
-
-Datos de animales y su estado de salud
-
-Asignación de habitats
-
-Control de cuidadores
-
-Registro de alimentación
-
-
-Cuando esta información se maneja de forma manual o sin un sistema centralizado, pueden ocurrir:
-
-Pérdida de información
-
-Errores en registros
-
-Falta de control y seguridad
-
-Dificultad para consultar o actualizar datos
-
-
-Este proyecto busca centralizar, organizar y proteger dicha información mediante un sistema digital.
-
-
----
-
-🧩 Alcance del sistema
-
-El sistema permite:
-
-Registro e inicio de sesión de usuarios
-
-Control de acceso mediante sesiones
-
-Consulta de datos desde la base de datos
-
-Inserción de nuevos registros
-
-Eliminación de registros existentes
-
-Administración de múltiples tablas desde una sola interfaz
-
-
-
----
-
-🧱 Arquitectura del sistema
-
-El proyecto sigue una arquitectura cliente-servidor, separando:
-
-HTML → Interfaz gráfica
-
-PHP → Lógica del sistema
-
-MySQL → Almacenamiento de datos
-
-
-Además, se separa claramente la vista de la lógica, facilitando mantenimiento y comprensión del código.
-
-
----
-
-🗂 Estructura del proyecto
-
-/zoo_project
-│
-├── index.html          # Vista del login
-├── index.php           # Lógica de autenticación
-├── registro.html       # Formulario de registro
-├── registrar.php       # Inserción de usuarios
-├── dashboard.html      # Vista principal tras login
-├── dashboard.php       # Validación de sesión
-├── admin.html          # Interfaz de administración
-├── admin.php           # Consultas, inserciones y borrados
-├── logout.php          # Cierre de sesión
-├── config.php          # Conexión a la base de datos
-├── style.css           # Diseño visual
-└── zoo_db.sql          # Base de datos completa
-
-
----
-
-🗄 Base de datos
-
-La base de datos zoo_db está compuesta por las siguientes tablas principales:
-
-Animal
-
-Habitat
-
-Cuidador
-
-Alimento
-
-RegistroAlimentacion
-
-usuarios
-
-
-Características:
-
-Uso de llaves primarias
-
-Relaciones uno a muchos y muchos a muchos
-
-Datos de prueba incluidos
-
-Contraseñas almacenadas de forma segura (hash)
-
-
-
----
-
-🔐 Seguridad del sistema
-
-El sistema implementa medidas básicas de seguridad:
-
-Autenticación mediante login
-
-Manejo de sesiones (session_start)
-
-Acceso restringido al panel de administración
-
-Uso de prepared statements para evitar inyección SQL
-
-Validación de formularios
-
-
-
----
-
-🖥 Interfaz del sistema
-
-El sistema cuenta con una interfaz:
-
-Clara e intuitiva
-
-Colores azul y blanco
-
-Formularios simples y funcionales
-
-Menú desplegable para seleccionar tablas
-
-Operaciones realizadas en la misma página
-
-
-
----
-
-👤 Usuario de prueba
-
-Para probar el sistema se incluye el siguiente usuario:
-
-Correo: admin@zoo.com
-
-Contraseña: admin123
-
-
-
----
-
-🖼 Imágenes del proyecto
-
-(Aquí puedes insertar imágenes)
-
-[Login del sistema](https://github.com/Xandx22/Proyecto/blob/imagenes/Img1.png)
-[Iniciando sesión](https://github.com/Xandx22/Proyecto/blob/imagenes/image.png)
-
-
-
-Enlaces:
-
-# Repositorio del proyecto
-https://github.com/Xandx22/Proyecto
-# Página estática
-https://xandx22.github.io/Proyecto/htdocs/htdocs/index
-# Página web
-https://zoologicogestion.infinityfree.me
-
-# 🍽️ **Proyecto 19 istema Web de Restaurante**
-Este proyecto consiste en el diseño e implementación de una base de datos relacional para optimizar el control de inventarios, pedidos y ventas de un restaurante. 
-
-
-# 🧱 **Tecnologías Utilizadas**
-
-* **Python + Flask**: Backend web y manejo de rutas
-* **SQLAlchemy (ORM)**: Acceso a base de datos usando modelos
-* **PostgreSQL (Supabase)**: Base de datos relacional
-* **HTML / CSS**: Interfaz visual
-* **Jinja2**: Plantillas dinámicas
-* **dotenv**: Variables de entorno
-
-# 🖼 **Capturas de Pantalla**
-
-### 1. Página de Inicio
-
-<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/acc0bc9e-596e-44e7-a424-a7ae6c686204" />
-
-### 2. Login
-
-<img width="1919" height="877" alt="image" src="https://github.com/user-attachments/assets/01f6ee20-fc81-4ac6-af35-09292140a7b9" />
-
-
-### 3. Registro de Clientes
-
-<img width="1919" height="875" alt="image" src="https://github.com/user-attachments/assets/ebf1e82c-39ab-40df-8832-1b7be2f68617" />
-<img width="1919" height="879" alt="image" src="https://github.com/user-attachments/assets/8f5d03da-f842-4860-bc2d-01dd898440ff" />
-
-
-### 4. Menú de Platillos
-
-<img width="1919" height="878" alt="image" src="https://github.com/user-attachments/assets/c72ed1d7-dedc-4be9-905b-57a0620cc50b" />
-
-### Se divide en 4 categorias
-* TACOS
-* COMIDA CASERA
-* BEBIDAS
-* POSTRES
-
-### 🔗 Enlaces
-* **Código Fuente:** [Repositorio en GitHub](https://github.com/elimon2006-ux/restaurante)
-* **URL:** [Restaurantel](https://restaurante-o4bj.onrender.com/)
-* **Repositorio GitHub Pages:** [Repositorio en GitHub Pages](https://github.com/elimon2006-ux/elimon2006-ux.github.io)
-* **URL Git Hub Pages:** [Restaurante](https://elimon2006-ux.github.io/index.html)
-
-
-
-## Proyecto 20: Joyería Luxoria
-Sistema de administración web para gestionar operaciones básicas de una joyería: clientes, inventario de productos y control de ventas.
-
-### 🛠️ Tecnologías
-* **Backend:** PHP
-* **Base de Datos:** MySQL
-* **Frontend:** HTML5, CSS3 (Custom Styles) y Bootstrap
-* **Gestión:** Composer (Manejo de dependencias)
-
-### 🚀 Características
-**➕ Gestión de Registros**
-- **Autenticación:** Registro e inicio de sesión seguro para usuarios.
-- **Control de Acceso:** El ajuste de precios está restringido; solo los usuarios con perfil de **Cliente** pueden realizar modificaciones de costo.
-- **Implementación de ORM:** Uso de Mapeo Objeto-Relacional para gestionar la lógica de negocio, permitiendo que los cambios en la base de datos se manejen como objetos PHP, mejorando la seguridad y mantenibilidad.
-
-**🔍 Consultas e Informes**
-- **Inventario Dinámico:** Visualización completa de joyas mediante tablas interactivas.
-- **Sincronización:** Actualización de stock y precios en tiempo real.
-- **Arquitectura Limpia:** Separación de responsabilidades con una carpeta `public_html` para el acceso web y `src` para la lógica interna.
-
-### 📂 Estructura del Proyecto
-<img src= "https://private-user-images.githubusercontent.com/237490521/534318876-5befa24c-8b97-473a-970e-5c3eee9025ec.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgxMDgwNDUsIm5iZiI6MTc2ODEwNzc0NSwicGF0aCI6Ii8yMzc0OTA1MjEvNTM0MzE4ODc2LTViZWZhMjRjLThiOTctNDczYS05NzBlLTVjM2VlZTkwMjVlYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMVQwNTAyMjVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jODYwMWFkMTVkNGY4NWZlMjZkOGFkNzY0NDYxMGQ3ZGEwNzJhY2MyZTcwNmEyZDMyYWJiMDNjMGNkMTBjNzEwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ZNIh5im3fP-alWcnlhFl2xf_2RzaS1vNT-nQhuYZaM0" />
-### 🖼️ Previews
-
-
- ### 🖼️ Previews
-
-
-  <tr>
-    <td width="50%">
-      <p align="center"><b>Página Joyería</b></p>
-      <img src="https://private-user-images.githubusercontent.com/237490521/534316673-138a82a6-c886-4d3a-84eb-d15258edee1c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgxMDczOTYsIm5iZiI6MTc2ODEwNzA5NiwicGF0aCI6Ii8yMzc0OTA1MjEvNTM0MzE2NjczLTEzOGE4MmE2LWM4ODYtNGQzYS04NGViLWQxNTI1OGVkZWUxYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMVQwNDUxMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNTI2MjNmNzhiZDZiMzlhNWViNDg2Nzc2MTdjMmI2NzNkZmVjNmMzNzc4YjIxODE2NDUxNTZjNWNiYTY2MjYzJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.KejwtLuBBqcsznZjRfe4QUd9uY_S6J-kddT7Jyr1rzg" width="100%" style="border-radius: 8px;"/>
-    </td>
-    <td width="50%">
-      <p align="center"><b>Login de Acceso</b></p>
-      <img src="https://private-user-images.githubusercontent.com/237490521/534316676-32744df6-610e-417d-b445-d4dc34d26a31.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgxMDczOTYsIm5iZiI6MTc2ODEwNzA5NiwicGF0aCI6Ii8yMzc0OTA1MjEvNTM0MzE2Njc2LTMyNzQ0ZGY2LTYxMGUtNDE3ZC1iNDQ1LWQ0ZGMzNGQyNmEzMS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMVQwNDUxMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zODIzZmQ4YjU2ZWZiMjkzYzA3M2ZiYTdjNDU5MDBiMjE2NmQ5ZTA2ZGU5OWE1MGEwMTk3ZmZkZDNhYWVkY2M3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.eZJvbh25b2wmRO8cXNgCu76O1CCjfjQ-FW4AJrBhL4c" width="100%" style="border-radius: 8px;"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%">
-      <p align="center"><b>Crear Cuenta</b></p>
-      <img src="https://private-user-images.githubusercontent.com/237490521/534316677-da8b861b-d2c1-4ee1-b608-3453721f9c0b.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgxMDczOTYsIm5iZiI6MTc2ODEwNzA5NiwicGF0aCI6Ii8yMzc0OTA1MjEvNTM0MzE2Njc3LWRhOGI4NjFiLWQyYzEtNGVlMS1iNjA4LTM0NTM3MjFmOWMwYi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMVQwNDUxMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZGY0YWVmMzg2NmRlNTZiYzE2YmQyOTRiNDMyZmYwZDdmZWZiNDNiNGMwMzEwMTI5MjlmMmMyNjY1MWI2MmMxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.hb4Eyqq9uHjlpmD6wjp2ZwcAqbZjXzdlqhYBwRp00p0" width="100%" style="border-radius: 8px;"/>
-    </td>
-    <td width="33%">
-      <p align="center"><b>Tablas</b></p>
-      <img src="https://private-user-images.githubusercontent.com/237490521/534316675-e8daf862-aac4-4c1e-860a-918f846da6fc.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgxMDczOTYsIm5iZiI6MTc2ODEwNzA5NiwicGF0aCI6Ii8yMzc0OTA1MjEvNTM0MzE2Njc1LWU4ZGFmODYyLWFhYzQtNGMxZS04NjBhLTkxOGY4NDZkYTZmYy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMVQwNDUxMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT03ZjI0ODBmOGEyMTg3ODA1MjY0ZTc4ZTc1ODQ1YWUzN2UzYzE2MjQ4NWRmNTQxNjE2MTM3NmEwMDBkZTFkOWMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.2Q1cRCQqYYfj6lN94kKOG17_dsZV7VdlPhYK3yKkkHM" width="100%" style="border-radius: 8px;"/>
-    </td>
-    <td width="33%">
-      <p align="center"><b>Productos</b></p>
-      <img src="https://private-user-images.githubusercontent.com/237490521/534316674-3864e68f-4169-4b0b-85a3-b99c3619ca38.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjgxMDczOTYsIm5iZiI6MTc2ODEwNzA5NiwicGF0aCI6Ii8yMzc0OTA1MjEvNTM0MzE2Njc0LTM4NjRlNjhmLTQxNjktNGIwYi04NWEzLWI5OWMzNjE5Y2EzOC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMTExJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDExMVQwNDUxMzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zYmFkMzlhNjliODAyMTYyNmQ4YjU2ZmUwZTEwMmJmNjM1NDZjMTE3NzhjMWNlMGJiZTFkZDZlZTJhMmNhZDY5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.Q2NNKbUuitEoawYevYpllkB_R6zHWydCbPJfjveWNLc" width="100%" style="border-radius: 8px;"/>
-    </td>
-  </tr>
-    
-  </tr>
-
-
-### 🔗 Enlaces
-* **Código Fuente:** [Repositorio en GitHub](https://github.com/danaemoremon/joyeria)
-* **Demo en Vivo (Github Pages):** [Tienda de Joyería Web](https://danaemoremon.github.io/joyeria/)
-* **Demo en Vivo (Hosting):** [Luxoria Shop Web](https://steelblue-meerkat-544740.hostingersite.com/)
-
-
-
-   ## 📝 Licencia
+## 📝 Licencia
 Este repositorio y sus proyectos están bajo la **MIT License**.
 
+
+## Proyecto 14: Pollitos Pío – Cubo OLAP Data Warehouse
+
+Sistema OLAP para análisis multidimensional de ventas de rosticera Pollitos Pío. Transforma datos transaccionales **OLTP** en **esquema estrella** con cubo de datos que permite análisis ágil por tiempo, producto, sucursal, cliente y método de pago.
+
+---
+
+## Tecnologías
+
+- **Data Warehouse:** MySQL 8.0 (esquema estrella)
+- **ETL:** Pentaho Data Integration (Kettle)
+- **OLAP:** Pentaho Schema Workbench
+- **Origen OLTP:** MySQL 8.0 + PHP 7.4 (InfinityFree)
+- **Despliegue:** Docker Compose (MySQL + phpMyAdmin)
+- **Consultas:** SQL OLAP (slice, dice, drill-down)
+
+---
+
+## Características Principales
+
+- Análisis de ventas por **año/mes/día/turno** (jerarquía temporal)
+- Comparación **sucursales/ciudades** vs **métodos de pago** (efectivo/tarjeta)
+- Segmentación **clientes particulares vs empresariales**
+- **Medidas agregables:** cantidad, importelinea (∑ventas por línea)
+- Operaciones OLAP: **slice/dice/drill-up/drill-down/pivot**
+- Desnormalización controlada para consultas 10x más rápidas que OLTP
+
+---
+
+## Arquitectura del Sistema
+
+El cubo está basado en **esquema estrella** con granularidad de **línea de venta**.
+
+### Tabla de Hechos (Núcleo OLAP)
+HechoVentasDetalle (centro del cubo)
+├── idhecho (PK)
+├── idtiempo → DimTiempo (cuándo)
+├── idproducto → DimProducto (qué)
+├── idsucursal → DimSucursal (dónde)
+├── idcliente → DimCliente (quién)
+├── idpago → DimPago (cómo)
+├── cantidad (medida)
+├── importalinea (medida: cantidad × precio)
+└── preciounitario
+
+### Dimensiones (Ejes de Análisis)
+- **DimTiempo** (jerarquía: año→mes→día→turno mañana/tarde/noche)
+- **DimProducto** (categoría→producto: Pollo/Guarniciones/Bebidas)
+- **DimSucursal** (sucursal→ciudad→colonia)
+- **DimCliente** (particular/empresarial→nombre)
+- **DimPago** (efectivo/tarjeta/transferencia)
+
+**PostgreSQL/MySQL** optimizado para agregaciones masivas con índices en claves de dimensiones.
+
+---
+
+## Capturas del Proyecto
+<img width="589" height="297" alt="esquemaestrella" src="https://github.com/user-attachments/assets/9b6e6d44-ae52-478c-a70e-3ff7c66621ca" />
+<img width="579" height="834" alt="dimensionesdelcubo" src="https://github.com/user-attachments/assets/5c912dd1-6588-4a5c-8e22-d0e553a1888f" />
+<img width="507" height="450" alt="CONSULTA" src="https://github.com/user-attachments/assets/fd1510ca-6203-4944-ab53-37aaa9dd5f84" />
+
+
+
+
+---
+
+## 🔗 Enlaces
+
+- **Repositorio Cubo OLAP:**  
+ 📂 [cubo-de-datos](https://github.com/camila-24/cubo-de-datos)
+
+- **Demo OLTP Original:**  
+  [https://practicabase2005.infinityfreeapp.com/](https://practicabase2005.infinityfreeapp.com/)
+
+- **Docker Data Warehouse Local:**  
+  [docker-compose.yml](docker-compose.yml) → `localhost:3306` / `localhost:8080` (phpMyAdmin)
+
+**Credenciales Docker:**
+MySQL: root/rootpass
+phpMyAdmin: localhost:8080
+
+
 Copyright (c) 2026 - Curso de Bases de Datos 2026-I
-
-
----
-# Proyecto 21
-
-## 🏹 Sistema de Gestión y Analítica - Club de Tiro con Arco IPN
-
-### 📝 Descripción
-Plataforma administrativa integral para el Club de Tiro con Arco del IPN, diseñada para gestionar atletas, inventario y rendimiento deportivo. El sistema destaca por su arquitectura de **Data Warehouse (DWH)** que utiliza procesos ETL para transformar datos operativos en indicadores visuales estratégicos mediante Flask, PostgreSQL y Chart.js.
-
----
-
-### 📸 Capturas de Pantalla
-### Dashboard de Analítica Avanzada (DWH)
-![Dashboard](https://raw.githubusercontent.com/fafamarquez/TIROIPN/main/app/static/img/stats.png)
-
-### Gestión de Miembros y Atletas con validación de CURP
-![Atletas](https://raw.githubusercontent.com/fafamarquez/TIROIPN/main/app/static/img/atletas.png)
-
-### Sistema de cuentas y permisos
-![Inventario](https://raw.githubusercontent.com/fafamarquez/TIROIPN/main/app/static/img/login.png)
-
-### Administración de Clases, Niveles, Equipo y Entrenadores
-![Clases](https://raw.githubusercontent.com/fafamarquez/TIROIPN/main/app/static/img/menu.png)
-
----
-
-### 🔗 Enlaces del Proyecto
-* **Repositorio de Código (GitHub):** [https://github.com/fafamarquez/TIROIPN](https://github.com/fafamarquez/TIROIPN)
-* **Página Web Oficial (Producción en Render):** [https://tiro-con-arco-ipn.onrender.com/](https://tiro-con-arco-ipn.onrender.com/)
-* **Demo Estática Funcional (GitHub Pages):** [https://fafamarquez.github.io/TIROIPN/](https://fafamarquez.github.io/TIROIPN/)
-
----
-
-### 🛠️ Tecnologías y Características
-* **Arquitectura de Datos:** **Data Warehouse (DWH)** con procesos de extracción y transformación para analítica deportiva.
-* **Backend:** Python 3.x / Flask con SQLAlchemy (ORM).
-* **Base de Datos:** PostgreSQL alojado en **Neon.tech** (Esquemas relacionales y analíticos).
-* **Frontend:** Bootstrap 5 e identidad visual institucional IPN.
-* **Visualización:** Chart.js para el despliegue dinámico de métricas del DWH.
-* **Despliegue:** Render (App dinámica) y GitHub Pages (Demo estática en carpeta `/docs`).
